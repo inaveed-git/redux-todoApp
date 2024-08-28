@@ -88,7 +88,7 @@ To provide a visual overview of the project, you can add screenshots to the `src
 
 ### Task Detail
 
-![Main Screenshot](src/assets/screenshots/main-screen.png)
+![task-detail Screenshot](src/assets/screenshots/task-detail.png)
 
 Ensure that you replace the placeholder image paths with the actual paths to your screenshots.
 
