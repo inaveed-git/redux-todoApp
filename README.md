@@ -85,11 +85,11 @@ To provide a visual overview of the project, you can add screenshots to the `src
 
 ### Main Screen
 
-![Main Screen](/assets/main-screen.png)
+![Main Screen](docs/main-screen.PNG)
 
 ### Task Detail
 
-![Task Detail](/assets/task-detail.png)
+![Task Detail](docs/task-detail.PNG)
 ```
 
 Ensure that you replace the placeholder image paths with the actual paths to your screenshots.
