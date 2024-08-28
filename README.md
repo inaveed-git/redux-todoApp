@@ -89,7 +89,7 @@ To provide a visual overview of the project, you can add screenshots to the `src
 
 ### Task Detail
 
-![Main Screenshot](https://github.com/inaveed-git/redux-todoApp/raw/main/src/assets/screenshots/task-detail.PNG)
+![Main Screenshot](src/assets/screenshots/main-screen.png)
 ```
 
 Ensure that you replace the placeholder image paths with the actual paths to your screenshots.
